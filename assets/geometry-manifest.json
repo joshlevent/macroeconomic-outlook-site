@@ -1,0 +1,708 @@
+{
+  "crosswalk": {
+    "AGO": {
+      "geometry_id": "AGO",
+      "iso3": "AGO",
+      "kind": "polygon"
+    },
+    "ARE": {
+      "geometry_id": "ARE",
+      "iso3": "ARE",
+      "kind": "polygon"
+    },
+    "ARG": {
+      "geometry_id": "ARG",
+      "iso3": "ARG",
+      "kind": "polygon"
+    },
+    "AUS": {
+      "geometry_id": "AUS",
+      "iso3": "AUS",
+      "kind": "polygon"
+    },
+    "AUT": {
+      "geometry_id": "AUT",
+      "iso3": "AUT",
+      "kind": "polygon"
+    },
+    "BDI": {
+      "geometry_id": "BDI",
+      "iso3": "BDI",
+      "kind": "polygon"
+    },
+    "BEL": {
+      "geometry_id": "BEL",
+      "iso3": "BEL",
+      "kind": "polygon"
+    },
+    "BEN": {
+      "geometry_id": "BEN",
+      "iso3": "BEN",
+      "kind": "polygon"
+    },
+    "BFA": {
+      "geometry_id": "BFA",
+      "iso3": "BFA",
+      "kind": "polygon"
+    },
+    "BGR": {
+      "geometry_id": "BGR",
+      "iso3": "BGR",
+      "kind": "polygon"
+    },
+    "BRA": {
+      "geometry_id": "BRA",
+      "iso3": "BRA",
+      "kind": "polygon"
+    },
+    "BWA": {
+      "geometry_id": "BWA",
+      "iso3": "BWA",
+      "kind": "polygon"
+    },
+    "CAF": {
+      "geometry_id": "CAF",
+      "iso3": "CAF",
+      "kind": "polygon"
+    },
+    "CAN": {
+      "geometry_id": "CAN",
+      "iso3": "CAN",
+      "kind": "polygon"
+    },
+    "CHE": {
+      "geometry_id": "CHE",
+      "iso3": "CHE",
+      "kind": "polygon"
+    },
+    "CHL": {
+      "geometry_id": "CHL",
+      "iso3": "CHL",
+      "kind": "polygon"
+    },
+    "CHN": {
+      "geometry_id": "CHN",
+      "iso3": "CHN",
+      "kind": "polygon"
+    },
+    "CIV": {
+      "geometry_id": "CIV",
+      "iso3": "CIV",
+      "kind": "polygon"
+    },
+    "CMR": {
+      "geometry_id": "CMR",
+      "iso3": "CMR",
+      "kind": "polygon"
+    },
+    "COD": {
+      "geometry_id": "COD",
+      "iso3": "COD",
+      "kind": "polygon"
+    },
+    "COG": {
+      "geometry_id": "COG",
+      "iso3": "COG",
+      "kind": "polygon"
+    },
+    "COL": {
+      "geometry_id": "COL",
+      "iso3": "COL",
+      "kind": "polygon"
+    },
+    "COM": {
+      "geometry_id": "COM-point",
+      "iso3": "COM",
+      "kind": "representative_point"
+    },
+    "CPV": {
+      "geometry_id": "CPV-point",
+      "iso3": "CPV",
+      "kind": "representative_point"
+    },
+    "CRI": {
+      "geometry_id": "CRI",
+      "iso3": "CRI",
+      "kind": "polygon"
+    },
+    "CYP": {
+      "geometry_id": "CYP",
+      "iso3": "CYP",
+      "kind": "polygon"
+    },
+    "CZE": {
+      "geometry_id": "CZE",
+      "iso3": "CZE",
+      "kind": "polygon"
+    },
+    "DEU": {
+      "geometry_id": "DEU",
+      "iso3": "DEU",
+      "kind": "polygon"
+    },
+    "DJI": {
+      "geometry_id": "DJI",
+      "iso3": "DJI",
+      "kind": "polygon"
+    },
+    "DNK": {
+      "geometry_id": "DNK",
+      "iso3": "DNK",
+      "kind": "polygon"
+    },
+    "DZA": {
+      "geometry_id": "DZA",
+      "iso3": "DZA",
+      "kind": "polygon"
+    },
+    "EGY": {
+      "geometry_id": "EGY",
+      "iso3": "EGY",
+      "kind": "polygon"
+    },
+    "ERI": {
+      "geometry_id": "ERI",
+      "iso3": "ERI",
+      "kind": "polygon"
+    },
+    "ESH": {
+      "geometry_id": "ESH",
+      "iso3": "ESH",
+      "kind": "polygon"
+    },
+    "ESP": {
+      "geometry_id": "ESP",
+      "iso3": "ESP",
+      "kind": "polygon"
+    },
+    "EST": {
+      "geometry_id": "EST",
+      "iso3": "EST",
+      "kind": "polygon"
+    },
+    "ETH": {
+      "geometry_id": "ETH",
+      "iso3": "ETH",
+      "kind": "polygon"
+    },
+    "FIN": {
+      "geometry_id": "FIN",
+      "iso3": "FIN",
+      "kind": "polygon"
+    },
+    "FRA": {
+      "geometry_id": "FRA",
+      "iso3": "FRA",
+      "kind": "polygon"
+    },
+    "GAB": {
+      "geometry_id": "GAB",
+      "iso3": "GAB",
+      "kind": "polygon"
+    },
+    "GBR": {
+      "geometry_id": "GBR",
+      "iso3": "GBR",
+      "kind": "polygon"
+    },
+    "GHA": {
+      "geometry_id": "GHA",
+      "iso3": "GHA",
+      "kind": "polygon"
+    },
+    "GIN": {
+      "geometry_id": "GIN",
+      "iso3": "GIN",
+      "kind": "polygon"
+    },
+    "GMB": {
+      "geometry_id": "GMB",
+      "iso3": "GMB",
+      "kind": "polygon"
+    },
+    "GNB": {
+      "geometry_id": "GNB",
+      "iso3": "GNB",
+      "kind": "polygon"
+    },
+    "GNQ": {
+      "geometry_id": "GNQ",
+      "iso3": "GNQ",
+      "kind": "polygon"
+    },
+    "GRC": {
+      "geometry_id": "GRC",
+      "iso3": "GRC",
+      "kind": "polygon"
+    },
+    "HKG": {
+      "geometry_id": "HKG-point",
+      "iso3": "HKG",
+      "kind": "representative_point"
+    },
+    "HRV": {
+      "geometry_id": "HRV",
+      "iso3": "HRV",
+      "kind": "polygon"
+    },
+    "HUN": {
+      "geometry_id": "HUN",
+      "iso3": "HUN",
+      "kind": "polygon"
+    },
+    "IDN": {
+      "geometry_id": "IDN",
+      "iso3": "IDN",
+      "kind": "polygon"
+    },
+    "IND": {
+      "geometry_id": "IND",
+      "iso3": "IND",
+      "kind": "polygon"
+    },
+    "IRL": {
+      "geometry_id": "IRL",
+      "iso3": "IRL",
+      "kind": "polygon"
+    },
+    "IRN": {
+      "geometry_id": "IRN",
+      "iso3": "IRN",
+      "kind": "polygon"
+    },
+    "ISL": {
+      "geometry_id": "ISL",
+      "iso3": "ISL",
+      "kind": "polygon"
+    },
+    "ISR": {
+      "geometry_id": "ISR",
+      "iso3": "ISR",
+      "kind": "polygon"
+    },
+    "ITA": {
+      "geometry_id": "ITA",
+      "iso3": "ITA",
+      "kind": "polygon"
+    },
+    "JPN": {
+      "geometry_id": "JPN",
+      "iso3": "JPN",
+      "kind": "polygon"
+    },
+    "KEN": {
+      "geometry_id": "KEN",
+      "iso3": "KEN",
+      "kind": "polygon"
+    },
+    "KOR": {
+      "geometry_id": "KOR",
+      "iso3": "KOR",
+      "kind": "polygon"
+    },
+    "LBR": {
+      "geometry_id": "LBR",
+      "iso3": "LBR",
+      "kind": "polygon"
+    },
+    "LBY": {
+      "geometry_id": "LBY",
+      "iso3": "LBY",
+      "kind": "polygon"
+    },
+    "LIE": {
+      "geometry_id": "LIE-point",
+      "iso3": "LIE",
+      "kind": "representative_point"
+    },
+    "LSO": {
+      "geometry_id": "LSO",
+      "iso3": "LSO",
+      "kind": "polygon"
+    },
+    "LTU": {
+      "geometry_id": "LTU",
+      "iso3": "LTU",
+      "kind": "polygon"
+    },
+    "LUX": {
+      "geometry_id": "LUX",
+      "iso3": "LUX",
+      "kind": "polygon"
+    },
+    "LVA": {
+      "geometry_id": "LVA",
+      "iso3": "LVA",
+      "kind": "polygon"
+    },
+    "MAR": {
+      "geometry_id": "MAR",
+      "iso3": "MAR",
+      "kind": "polygon"
+    },
+    "MDG": {
+      "geometry_id": "MDG",
+      "iso3": "MDG",
+      "kind": "polygon"
+    },
+    "MEX": {
+      "geometry_id": "MEX",
+      "iso3": "MEX",
+      "kind": "polygon"
+    },
+    "MLI": {
+      "geometry_id": "MLI",
+      "iso3": "MLI",
+      "kind": "polygon"
+    },
+    "MLT": {
+      "geometry_id": "MLT-point",
+      "iso3": "MLT",
+      "kind": "representative_point"
+    },
+    "MOZ": {
+      "geometry_id": "MOZ",
+      "iso3": "MOZ",
+      "kind": "polygon"
+    },
+    "MRT": {
+      "geometry_id": "MRT",
+      "iso3": "MRT",
+      "kind": "polygon"
+    },
+    "MUS": {
+      "geometry_id": "MUS-point",
+      "iso3": "MUS",
+      "kind": "representative_point"
+    },
+    "MWI": {
+      "geometry_id": "MWI",
+      "iso3": "MWI",
+      "kind": "polygon"
+    },
+    "MYS": {
+      "geometry_id": "MYS",
+      "iso3": "MYS",
+      "kind": "polygon"
+    },
+    "NAM": {
+      "geometry_id": "NAM",
+      "iso3": "NAM",
+      "kind": "polygon"
+    },
+    "NER": {
+      "geometry_id": "NER",
+      "iso3": "NER",
+      "kind": "polygon"
+    },
+    "NGA": {
+      "geometry_id": "NGA",
+      "iso3": "NGA",
+      "kind": "polygon"
+    },
+    "NLD": {
+      "geometry_id": "NLD",
+      "iso3": "NLD",
+      "kind": "polygon"
+    },
+    "NOR": {
+      "geometry_id": "NOR",
+      "iso3": "NOR",
+      "kind": "polygon"
+    },
+    "NZL": {
+      "geometry_id": "NZL",
+      "iso3": "NZL",
+      "kind": "polygon"
+    },
+    "PER": {
+      "geometry_id": "PER",
+      "iso3": "PER",
+      "kind": "polygon"
+    },
+    "POL": {
+      "geometry_id": "POL",
+      "iso3": "POL",
+      "kind": "polygon"
+    },
+    "PRT": {
+      "geometry_id": "PRT",
+      "iso3": "PRT",
+      "kind": "polygon"
+    },
+    "QAT": {
+      "geometry_id": "QAT",
+      "iso3": "QAT",
+      "kind": "polygon"
+    },
+    "ROU": {
+      "geometry_id": "ROU",
+      "iso3": "ROU",
+      "kind": "polygon"
+    },
+    "RUS": {
+      "geometry_id": "RUS",
+      "iso3": "RUS",
+      "kind": "polygon"
+    },
+    "RWA": {
+      "geometry_id": "RWA",
+      "iso3": "RWA",
+      "kind": "polygon"
+    },
+    "SAU": {
+      "geometry_id": "SAU",
+      "iso3": "SAU",
+      "kind": "polygon"
+    },
+    "SDN": {
+      "geometry_id": "SDN",
+      "iso3": "SDN",
+      "kind": "polygon"
+    },
+    "SEN": {
+      "geometry_id": "SEN",
+      "iso3": "SEN",
+      "kind": "polygon"
+    },
+    "SGP": {
+      "geometry_id": "SGP-point",
+      "iso3": "SGP",
+      "kind": "representative_point"
+    },
+    "SLE": {
+      "geometry_id": "SLE",
+      "iso3": "SLE",
+      "kind": "polygon"
+    },
+    "SOM": {
+      "geometry_id": "SOM",
+      "iso3": "SOM",
+      "kind": "polygon"
+    },
+    "SSD": {
+      "geometry_id": "SSD",
+      "iso3": "SSD",
+      "kind": "polygon"
+    },
+    "STP": {
+      "geometry_id": "STP-point",
+      "iso3": "STP",
+      "kind": "representative_point"
+    },
+    "SVK": {
+      "geometry_id": "SVK",
+      "iso3": "SVK",
+      "kind": "polygon"
+    },
+    "SVN": {
+      "geometry_id": "SVN",
+      "iso3": "SVN",
+      "kind": "polygon"
+    },
+    "SWE": {
+      "geometry_id": "SWE",
+      "iso3": "SWE",
+      "kind": "polygon"
+    },
+    "SWZ": {
+      "geometry_id": "SWZ",
+      "iso3": "SWZ",
+      "kind": "polygon"
+    },
+    "SYC": {
+      "geometry_id": "SYC-point",
+      "iso3": "SYC",
+      "kind": "representative_point"
+    },
+    "TCD": {
+      "geometry_id": "TCD",
+      "iso3": "TCD",
+      "kind": "polygon"
+    },
+    "TGO": {
+      "geometry_id": "TGO",
+      "iso3": "TGO",
+      "kind": "polygon"
+    },
+    "THA": {
+      "geometry_id": "THA",
+      "iso3": "THA",
+      "kind": "polygon"
+    },
+    "TUN": {
+      "geometry_id": "TUN",
+      "iso3": "TUN",
+      "kind": "polygon"
+    },
+    "TUR": {
+      "geometry_id": "TUR",
+      "iso3": "TUR",
+      "kind": "polygon"
+    },
+    "TWN": {
+      "geometry_id": "TWN",
+      "iso3": "TWN",
+      "kind": "polygon"
+    },
+    "TZA": {
+      "geometry_id": "TZA",
+      "iso3": "TZA",
+      "kind": "polygon"
+    },
+    "UGA": {
+      "geometry_id": "UGA",
+      "iso3": "UGA",
+      "kind": "polygon"
+    },
+    "UKR": {
+      "geometry_id": "UKR",
+      "iso3": "UKR",
+      "kind": "polygon"
+    },
+    "USA": {
+      "geometry_id": "USA",
+      "iso3": "USA",
+      "kind": "polygon"
+    },
+    "VNM": {
+      "geometry_id": "VNM",
+      "iso3": "VNM",
+      "kind": "polygon"
+    },
+    "ZAF": {
+      "geometry_id": "ZAF",
+      "iso3": "ZAF",
+      "kind": "polygon"
+    },
+    "ZMB": {
+      "geometry_id": "ZMB",
+      "iso3": "ZMB",
+      "kind": "polygon"
+    },
+    "ZWE": {
+      "geometry_id": "ZWE",
+      "iso3": "ZWE",
+      "kind": "polygon"
+    }
+  },
+  "prepared": {
+    "bytes": 461980,
+    "coordinate_reference_system": "WGS 84 / EPSG:4326",
+    "feature_count": 187,
+    "file": "assets/world.geojson",
+    "format": "GeoJSON FeatureCollection",
+    "point_feature_count": 10,
+    "polygon_feature_count": 177,
+    "sha256": "0f18bf50ab23a6948a1da7895f83fc85ce5f1e66c140195ff92156a2217e2131"
+  },
+  "representative_point_provenance": {
+    "COM": {
+      "coordinates": [
+        43.87,
+        -11.7
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "CPV": {
+      "coordinates": [
+        -23.51,
+        15.12
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "CYP": {
+      "coordinates": [
+        33.43,
+        35.13
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "HKG": {
+      "coordinates": [
+        114.17,
+        22.32
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "LIE": {
+      "coordinates": [
+        9.55,
+        47.14
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "MLT": {
+      "coordinates": [
+        14.38,
+        35.94
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "MUS": {
+      "coordinates": [
+        57.5,
+        -20.2
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "SGP": {
+      "coordinates": [
+        103.82,
+        1.35
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "STP": {
+      "coordinates": [
+        6.61,
+        0.19
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    },
+    "SYC": {
+      "coordinates": [
+        55.45,
+        -4.62
+      ],
+      "method": "manual representative location for 110m selection; not a boundary or area estimate",
+      "source_url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+      "source_version": "5.1.2"
+    }
+  },
+  "schema_version": 1,
+  "source": {
+    "archive_filename": "ne_110m_admin_0_countries-5.1.2.zip",
+    "archive_sha256": "0f243aeac8ac6cf26f0417285b0bd33ac47f1b5bdb719fd3e0df37d03ea37110",
+    "license": "Public domain",
+    "license_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "name": "Natural Earth Admin 0 – Countries",
+    "url": "https://naturalearth.s3.amazonaws.com/5.1.2/110m_cultural/ne_110m_admin_0_countries.zip",
+    "version": "5.1.2"
+  },
+  "territorial_conventions": [
+    "ISO/project entity IDs are joined through this explicit crosswalk; display names are never used as keys.",
+    "Taiwan (TWN) remains a separately reported statistical unit with its own geometry feature.",
+    "Hong Kong (HKG) remains a separate statistical economy and uses a representative point when no 110m polygon is present.",
+    "Representative points for CYP, HKG, LIE, MLT and SGP support selection at 110m scale; they are not fabricated country polygons or sovereignty claims.",
+    "Natural Earth territorial outlines are used as statistical map conventions and do not imply a sovereignty position."
+  ]
+}
