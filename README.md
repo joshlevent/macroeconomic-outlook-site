@@ -1,6 +1,6 @@
 # Macroeconomic Outlook
 
-Generated static site for Macroeconomic Outlook:
+Generated static site for [Macroeconomic Outlook](https://macroeconomic-outlook.joshlevent.com):
 official macroeconomic data and publications for 65 economies, updated daily from statistics offices
 and central banks.
 
