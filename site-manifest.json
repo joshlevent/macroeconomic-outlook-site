@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "snapshot_id": "2026-09-10-annual-v2+2026-09-11-hicp-v1+2026-09-11-au-v1+20261105T043354Z+20261106T121812Z+20261022T153833Z+20261106T121845Z+20261109T044229Z+20261107T040009Z+2026-09-11-history-v1",
-  "built_at": "2026-11-09T04:42:29.723524+00:00",
+  "snapshot_id": "2026-09-10-annual-v2+2026-09-11-hicp-v1+2026-09-11-au-v1+20261105T043354Z+20261106T121812Z+20261022T153833Z+20261106T121845Z+20261110T043344Z+20261110T040008Z+2026-09-11-history-v1",
+  "built_at": "2026-11-10T04:33:44.656368+00:00",
   "files": [
     {
       "name": ".nojekyll",
@@ -26,887 +26,887 @@
     {
       "name": "data/aggregates/AGRI_EXPORTERS.json",
       "bytes": 32979,
-      "sha256": "da2c0cedd650cf604051edf8462f1405435a1def324b3977d563f3b9c42286e2"
+      "sha256": "5b9ef215edf606a573ef5cef1b434b907dc1fe961bdda50a263bfe52709c0783"
     },
     {
       "name": "data/aggregates/ASIA_ELECTRONICS.json",
       "bytes": 396,
-      "sha256": "1af973f28cb3f15d338dfeb229c16778d3d4013832404f517163b806943b5b58"
+      "sha256": "490565ce61f35159c7aaaedad7e448a629955fe9cbbf178cbad27ebdebf2466e"
     },
     {
       "name": "data/aggregates/AU.json",
       "bytes": 382,
-      "sha256": "53b524333174c33ca6f5fb5587a80f82f269814672180537d07b7777c90ffa35"
+      "sha256": "55294b8fc3c94559e335a98158b5f079223fc234b5c19d85c10e3ddb85914ecf"
     },
     {
       "name": "data/aggregates/EA.json",
       "bytes": 139910,
-      "sha256": "625fcf84ef2f3c6d82ba3828302b9a02514f4bcd2e067885e057114c370d48ab"
+      "sha256": "b051ad66e6d5574d3207f229b8b6a6a0384f18ad28c449374bd4777cc7b7e1ff"
     },
     {
       "name": "data/aggregates/EEA.json",
       "bytes": 42383,
-      "sha256": "f4588d19386f96fb4d2c41b835292f524daee935c781d87c160fabaf4be77ea5"
+      "sha256": "1a472362433e880ecb3aa09676e956f67940014aeb4beebb6d29093bb84715da"
     },
     {
       "name": "data/aggregates/EFTA.json",
       "bytes": 26796,
-      "sha256": "5939447b4b8a61a1d817936ad3df849a7a45458199389e7e482e803c588c6d06"
+      "sha256": "60f29e8a6b17f68b68e6e9df8089655bf60212f80e54ea208a8aa38b7515fd3e"
     },
     {
       "name": "data/aggregates/EM_MANUFACTURING.json",
       "bytes": 33479,
-      "sha256": "f010fc1e874711fc25c81ad91b93bf1c26aa2e35c06ad90a8638033469d7dc94"
+      "sha256": "058b65bdb8a9a5f7013eee35d0e74ce22d1037cc134f43d46e48942daa315322"
     },
     {
       "name": "data/aggregates/ENERGY_EXPORTERS.json",
       "bytes": 36701,
-      "sha256": "afa63bd71c72883b46ae8ca354dec76049b3697683dc048bf47a3486f5d2bba5"
+      "sha256": "18391521e8fec8c182b04604b3bbf4af435efdfe0dd7c43659960ec7c1da200e"
     },
     {
       "name": "data/aggregates/EU.json",
       "bytes": 195290,
-      "sha256": "eabecae68819be17f70536c8067ccf29e487527ae02d4306a7653c924d039351"
+      "sha256": "3ff427d186912158d4a378d9da1de037e55364da336be6eecf71d24fa1750503"
     },
     {
       "name": "data/aggregates/EUROPE_EAST_WATCHED.json",
       "bytes": 40459,
-      "sha256": "9e6d3e773ccbbd0b8b0a738c1a678c8b4e476cd7d2b3a80cf793d6c252b6887c"
+      "sha256": "829154513ec71eed9b7db59aff800ce8deed4b9e33e55fcfb8d51a9274837735"
     },
     {
       "name": "data/aggregates/EUROPE_NORTH_WATCHED.json",
       "bytes": 53442,
-      "sha256": "3bd79d93e401ff52a9d1f204a395f5efa343edd9513479e3cd6b81e04309bb5d"
+      "sha256": "5ef6804e79e60d5d69f8a75a8d73369a55b982c10012c0a5180fc0444cff82ef"
     },
     {
       "name": "data/aggregates/EUROPE_SOUTH_WATCHED.json",
       "bytes": 59323,
-      "sha256": "f2ca633b9607c6092fb40f27fad32c7465ca5881d96997615a9f0e8074b1c3a8"
+      "sha256": "7c5830dd25bafed87820d6bd4b9eb78bd327aae39907d77198fad55826fde149"
     },
     {
       "name": "data/aggregates/EUROPE_WATCHED.json",
       "bytes": 29087,
-      "sha256": "3301df413c95c2fd51d0c4e6940da37cc94fcff6ad3bbaf02ace4482f06450b6"
+      "sha256": "1c667673da1f35c214adb7beb9b19b48bbea86807fe29cd61bdf0fa0c643e82f"
     },
     {
       "name": "data/aggregates/EUROPE_WEST_WATCHED.json",
       "bytes": 26046,
-      "sha256": "6280a626ca756bb91248ec05c8bc8da9e1769f4fac69c33e8b779ea34420d7d8"
+      "sha256": "d03ec8b545bf92ab4c8db2b3938c3d643a63c7bd1497b46ece9ae0acb45a70a4"
     },
     {
       "name": "data/aggregates/EU_NON_EA.json",
       "bytes": 65918,
-      "sha256": "1eeb460c95f1d21c9d51f62ebd71179b5d92ddf43aa7eeaa5e53b2d9e1a36487"
+      "sha256": "f9fb8f81e1f6b26bc06e666819c6431fc49e02891490bb23849d86c89c30bf0d"
     },
     {
       "name": "data/aggregates/G20_COUNTRIES.json",
       "bytes": 51362,
-      "sha256": "0af4787e498b829321006172e337443adffb535f3f1fcb611950cc8447de3629"
+      "sha256": "decb0783499e665d91bbcf1cc04b1e862178f2a048785bc9d4bb66515db8f44f"
     },
     {
       "name": "data/aggregates/G7_COUNTRIES.json",
       "bytes": 48200,
-      "sha256": "d34ea948cf3c0c7a2678f58dfb8a137e474907d7a152ff64ae86db1682ef00b9"
+      "sha256": "4f99e256eb6fa7c25de462506b70f01e5136e8a6e30874f6899aec84ef9038b3"
     },
     {
       "name": "data/aggregates/GULF_ENERGY.json",
       "bytes": 24886,
-      "sha256": "81fe63a7177be22e20df3794adc27fa0b5739706e63d187be9c06473f3eb0ad4"
+      "sha256": "0591fcc109e406cf196fe70c557198c247a0149d47b79df1f94c7462fd150be0"
     },
     {
       "name": "data/aggregates/METALS_MINERALS.json",
       "bytes": 33301,
-      "sha256": "e18eed1884c9990ad8ca5b8bdb4d3860390574faa141fce0df3cd75c31ceb490"
+      "sha256": "289254bbb7203c9e501442af1de5c3ab297aa06bcae514e1a36406ab5aa94d4e"
     },
     {
       "name": "data/aggregates/OECD.json",
       "bytes": 131158,
-      "sha256": "f4eec29005a19a1ef10ff0daae9b0aa512a6916144e716775dd9a59ceb79931d"
+      "sha256": "e874636d2ec367e74a75ef1ddc3433af477a96ed3bbcf7a5ca5bfc2b27dbfb26"
     },
     {
       "name": "data/aggregates/OECD_AMERICAS.json",
       "bytes": 33714,
-      "sha256": "d9ed312c8dc71bf1dfd7c3d046c5730cb1550516a05fddc298616efb4ac0836c"
+      "sha256": "77a28e73e0a66566e4e4efc4da12e1668f8990fa9a2dc63ab55b70de4140c113"
     },
     {
       "name": "data/aggregates/OECD_ASIA_OCEANIA.json",
       "bytes": 31962,
-      "sha256": "da2cf7fd968a1b08770340877c73ae125e54840b83626f637a33ed483b6aab0e"
+      "sha256": "7badc05f7e3398425a301b03146e1823937c25ba0d2be12aa2ee2af991cf827f"
     },
     {
       "name": "data/aggregates/OECD_EU.json",
       "bytes": 80378,
-      "sha256": "7d718abbaea6c01e0cbb0fbbda3b08ab2a3ebbea2eb842d4b16446d7ecdfef6d"
+      "sha256": "e42ce504e59b9598def1ad361f896ecb567d97e7699fa032289f3a8c6635edb2"
     },
     {
       "name": "data/aggregates/OECD_EUROPE.json",
       "bytes": 77563,
-      "sha256": "b2c7ae6bedb2f5cbf9c724c3ef0d2e3e80ad1038d4a41641fc2b858739f33886"
+      "sha256": "76518f53630e390c596eb0c63c5213a101200cfac428261a00a71adfecc66277"
     },
     {
       "name": "data/aggregates/TRADE_HUBS.json",
       "bytes": 26381,
-      "sha256": "5fe719e1efa691b98dbda1d670948d8f60c9163e745d32d2d1bce963ecd9b2c0"
+      "sha256": "8b6c73a23ec8f5416a02507f92531804b4cdafd4c8b15c6ee420cceff401353f"
     },
     {
       "name": "data/briefing.json",
-      "bytes": 2847543,
-      "sha256": "0c3498112de5c36022bbea64fe4b260a7ea60566e511d8b5699edf224cc68906"
+      "bytes": 2848187,
+      "sha256": "ed4a04c1166c750eab75419759383a51c2a9486ec68aeaa09a0217760788463d"
     },
     {
       "name": "data/core.json",
-      "bytes": 3856610,
-      "sha256": "817a342e62a02d3b390189688f96bd13bff3ff1af57d38154076c971e7af4667"
+      "bytes": 3863477,
+      "sha256": "dc497e65a9d25670715be9944ed7c761b2e20e54edfedc6c52daf4062ecec066"
     },
     {
       "name": "data/economies/ARE.json",
-      "bytes": 10882,
-      "sha256": "89812e2bda3fbfc3a219b38828a9274a7b1c807f983949475c37449b393735f7"
+      "bytes": 10890,
+      "sha256": "b58c2146b3501a3077d5d7aaefd0a4846c3f0d4dbe84688767fccdf1a33b6cf6"
     },
     {
       "name": "data/economies/ARG.json",
       "bytes": 15030,
-      "sha256": "a28e44a0a16a19d5bcb060d3bc0aec123a53abb10ac458464aa182968a232d38"
+      "sha256": "2bc7b1d8b7bd7caa5e2068d45cdec92f4d8c935ab36b3d545efd91219c7dab08"
     },
     {
       "name": "data/economies/AUS.json",
       "bytes": 16896,
-      "sha256": "2fc4e0a71bae85b65082e756cf4528c231b51077d55b772800048580201bb522"
+      "sha256": "38e04f5eeebb158b68b4719d6a3eda495dc7c6441caea4a17d63fc9606599b8e"
     },
     {
       "name": "data/economies/AUT.json",
       "bytes": 54429,
-      "sha256": "f45ab1d10c79432f97a9be40e5c71816a8bd51c2bbc21669fe4d340eb977be0b"
+      "sha256": "385d9e56b7438d50ee6b9464111185b3749e9df8418882ffaab023e06b1a4a5f"
     },
     {
       "name": "data/economies/BEL.json",
       "bytes": 49150,
-      "sha256": "647b4617bf0930eb66340696021daa170ab2beca37c9686babd7cc52dbc9e497"
+      "sha256": "fba5cdeca230949e487fc5a4125ab3436e175881df4581f9485fbaeefa7a80e7"
     },
     {
       "name": "data/economies/BGR.json",
       "bytes": 51047,
-      "sha256": "7a9b511e6768a06598ccbe4407355dc8fccb9acc67c8e54758c9247e32603487"
+      "sha256": "7ac22a0615834694086f7f8d0cac0b181271e599edb52e36461dab220586a7b2"
     },
     {
       "name": "data/economies/BRA.json",
       "bytes": 21763,
-      "sha256": "2dbf3f635d22b27fadd082cd9caaf8091fcdf60648342e3a90c701f19ea58df8"
+      "sha256": "480b68d293c5d06d06d14f28e7e9be35cab5afac0298692adf1306e3ba6ac898"
     },
     {
       "name": "data/economies/CAN.json",
       "bytes": 24555,
-      "sha256": "cfd20932f80b7fbb4847bc4f0ef33ba1247f3ed5d90f2385388ea17fcd46ee41"
+      "sha256": "30dafe5503aa7b60ecfbdf2dfe9684a0d1bd164f98bae34e5a480e948459da37"
     },
     {
       "name": "data/economies/CHE.json",
       "bytes": 54588,
-      "sha256": "af3259869f0a83a2918e9ac52a4384c38f4d24dab02c23a44b26dca98dd8c783"
+      "sha256": "292e38e9675accf78092610e7a2a05f9f5aa8ddddc71b0f5adbfb943768c90a2"
     },
     {
       "name": "data/economies/CHL.json",
       "bytes": 20458,
-      "sha256": "b3164d259c8ba48ba795567b41df729548432d7a01dff39fef9c44019407373f"
+      "sha256": "df7b995bae2afe407da6a5e361d0533efd46b59719b96ae3667f160d2e4bcf31"
     },
     {
       "name": "data/economies/CHN.json",
       "bytes": 14283,
-      "sha256": "d85df7e3b9585d75e186b750aa8266dfe988c0ce8f8c7e2f0174b1b4a4c7641f"
+      "sha256": "d4a55ee87e9be03a13ec6fd33a2a3039e3d6de7f1afb82ed0ec86c5d5ea9924f"
     },
     {
       "name": "data/economies/COD.json",
-      "bytes": 12483,
-      "sha256": "6c73fae43b08868cfcdd8e29995ec8581f716685b7b57e6c247d624bb3604581"
+      "bytes": 12447,
+      "sha256": "65e8d8daec51d0f9b8a4ec0cfc91842967c195b6a21f2becfc114700c3467f63"
     },
     {
       "name": "data/economies/COL.json",
-      "bytes": 17526,
-      "sha256": "b401dddcd93473df641885abf0a39ff471987622d3ae9fb3666d3aee4d662d6d"
+      "bytes": 17490,
+      "sha256": "16f3a245124482f7eec777ee558a51df38a99cd24c767525cb81c62fbadba93e"
     },
     {
       "name": "data/economies/CRI.json",
       "bytes": 14386,
-      "sha256": "71dc1e4c72041fe39518283aae08911f0c57a248c7916b07b65f6ab8f8c0e74c"
+      "sha256": "9409338d02837e463ff6828af7889ab89beed6bb2a1ecff73faebac6cdfce76b"
     },
     {
       "name": "data/economies/CYP.json",
       "bytes": 39784,
-      "sha256": "d30bcd8f9d41c8faf60540210fb48eb9445e0a971e247a2f3f3aeccedff03d55"
+      "sha256": "c3cdb6243adb4e83bb9eccc9293bc88ceccb8452070786f8905877960bc34192"
     },
     {
       "name": "data/economies/CZE.json",
       "bytes": 69922,
-      "sha256": "c8ca4fd229a0adf95f4782447b22156eb30d30fb8a0e30093a6c6344c3325408"
+      "sha256": "4fdeeee86506ccee47e77a609fdae8f042d996a0a60bca71a63d78b440f15aa4"
     },
     {
       "name": "data/economies/DEU.json",
       "bytes": 50545,
-      "sha256": "c4829afc49e4284c727020a07f97920196457cc1ab8c1a438bbf3087aa16f0d6"
+      "sha256": "a37e8cb65282476413251cb4a0f79487d5067d2f97ff7e81f4dddd5ae0398d06"
     },
     {
       "name": "data/economies/DNK.json",
       "bytes": 74368,
-      "sha256": "7d0e6544fad7a54782a3d1d29b624b2eb5e1778f438ecda861e01dd07c2e5caa"
+      "sha256": "2bd0ca2b0ffc23a311e158a36c76739dafc7e9e10f8c0df4375e2c7178a350ff"
     },
     {
       "name": "data/economies/EA.json",
       "bytes": 26696,
-      "sha256": "30bf0a0735cbfee2102f7ac73bc3ee261e757566d71581875a92956b5fdeac26"
+      "sha256": "955c15ff50a6a8ed8eee5cde241a64b4234b19485028f24de660d9bb78253542"
     },
     {
       "name": "data/economies/EGY.json",
-      "bytes": 9477,
-      "sha256": "6295788b033d0422dd2c46a22431341931c64530ea16a63df7d0e21762c88dcc"
+      "bytes": 9507,
+      "sha256": "3aae754cd81465aa4f1015550304bc3447fdc7082a3c0781ee3f25e14c38e41c"
     },
     {
       "name": "data/economies/ESP.json",
       "bytes": 54235,
-      "sha256": "8d3023f375092e145c964dfacdbfe9374849853c9ff2fb2204b93549e84fa9db"
+      "sha256": "a44fe04aaa0f1cf54e3f219e6e788ec948b46775d4982a392651cfc917d9f151"
     },
     {
       "name": "data/economies/EST.json",
       "bytes": 46964,
-      "sha256": "8e8a52cee4e439e2e87ff55cca56379f44e4a9ff32e903ec7510a96105fb3a9e"
+      "sha256": "66062baaa4c06eb2d84a33cd748f613f9bac0a019e69ba03bc307846977e2398"
     },
     {
       "name": "data/economies/FIN.json",
       "bytes": 46231,
-      "sha256": "a24c6c84f04e23ff34f69a35e9a7562439327579a5bd6195ded792f3fd877876"
+      "sha256": "eb46b0a36686a2aa2db29c8f5a695a08bef068af599e190f3804251704b86a00"
     },
     {
       "name": "data/economies/FRA.json",
       "bytes": 47632,
-      "sha256": "f28156217d4cec91e1facf4b117b0ef742970ffdeb0c2399b5419a2efa0d3169"
+      "sha256": "78485bbd0e22e4b9eeb4bc942a828d430db469853c4bf328643528e57fc4e83e"
     },
     {
       "name": "data/economies/GBR.json",
       "bytes": 112245,
-      "sha256": "cd126387a5d8fb605fffceed050f08abc3c416cd75b6022f9b32877c5f316c7a"
+      "sha256": "79aea5af2fe6074245425685acd29ddb65317e079c008aff280c33236784ecb2"
     },
     {
       "name": "data/economies/GRC.json",
       "bytes": 50160,
-      "sha256": "5258ff730bb85cf155373c3f27af9388960fa2924cdb7a4b420c02c1b89a4b19"
+      "sha256": "7ed5e7ca140ed08dc16cb0424d55af926d2b5cf77c5b1c8d5e9a1e8550597545"
     },
     {
       "name": "data/economies/HKG.json",
-      "bytes": 24656,
-      "sha256": "69adff620bd5597ab5a41385aff93d78bbf01c3ae2aa7a68eb5f6952b5855179"
+      "bytes": 24687,
+      "sha256": "b26db548db1c94f1298247022660193e7983d8436063bd6cf1365437be41ec97"
     },
     {
       "name": "data/economies/HRV.json",
       "bytes": 46231,
-      "sha256": "673207dba9bb5a3ec2d802145a1264c9726a276b10c50f7ca42c17958485c93b"
+      "sha256": "47671ea0042dd07ae4f8ab1cf343dcf4a72651a8136ce7b6c581444dbcc5af51"
     },
     {
       "name": "data/economies/HUN.json",
       "bytes": 73903,
-      "sha256": "1056ffa529c1ea9291e504745de8ae6f561a8c38bce996e2a87a79f550a9ba14"
+      "sha256": "1b6d1776e11a388d26611570f1689951843c379a07debaaa7b2d612d0572456e"
     },
     {
       "name": "data/economies/IDN.json",
       "bytes": 16689,
-      "sha256": "3c570ad6ebdc6eea677116ef090990bec34b1168f16130e7a24353d44d5448bd"
+      "sha256": "486d1c0d1e713a6ab93b4823e8bfa70649282708c18db1efb3ff1587860d5b34"
     },
     {
       "name": "data/economies/IND.json",
       "bytes": 17887,
-      "sha256": "6a98449068ee6bc90a2c45808d78f95b8855291d2502f70e04f8e1113c0bf2e2"
+      "sha256": "375ca6f1a33840678374d16344c1237559972d8a1e3d4dbdb545c59a968e2f2c"
     },
     {
       "name": "data/economies/IRL.json",
       "bytes": 51551,
-      "sha256": "76179ced51773aa56d6fd521b99d79859611da23db018b629ea72e8f465d0c79"
+      "sha256": "498aaf1fe2d0f5f96ab17525bb20360c717904568a37aa76281fae34cf2993b6"
     },
     {
       "name": "data/economies/IRN.json",
       "bytes": 8444,
-      "sha256": "f32192feb2746c783d843245984c7b2dc338d17d134799cda7b5d9e4e631723b"
+      "sha256": "c5c7beec760b53f7ce6259a37ab39a8c7f47475794864c00118e0dd9766235a1"
     },
     {
       "name": "data/economies/ISL.json",
-      "bytes": 55824,
-      "sha256": "68cd0269880e3478d36fd0cb49b38ca05a6ae9991861a58dae2de56703de205d"
+      "bytes": 55859,
+      "sha256": "a3f3dad8fa81bcae4862784939f07f9be6d586f961ac197f65432f9b70097300"
     },
     {
       "name": "data/economies/ISR.json",
       "bytes": 28420,
-      "sha256": "9b194324371ef90c8366280f92a82e2df3e78bf012800a7b8f2c8039f66f426b"
+      "sha256": "51166ddb3bc7aecb336c99bd23dec6f27570cf530fb6c0241df0cc721f14a630"
     },
     {
       "name": "data/economies/ITA.json",
       "bytes": 51064,
-      "sha256": "84d84ba4b300964476f85414b7a1bf79db2f030b7ea6fa95420d143b1b4e29fc"
+      "sha256": "b312bd6936911ec8c7ed363f3b96ae2913a519e5bf0e2fefbdf5a2cd275c6e55"
     },
     {
       "name": "data/economies/JPN.json",
       "bytes": 37889,
-      "sha256": "9e530e614eed30411c56a0aa569212d9b03e77d9689b1efe66ca3bd92b5a296f"
+      "sha256": "a0c3adbc3c9d2fb848c3fa76668fb011569adad9a38de8e1b45d5511212297d5"
     },
     {
       "name": "data/economies/KOR.json",
       "bytes": 23523,
-      "sha256": "59bf3a457f6399146ae22567db7a3fa0c1a3721516219c14921ca9d4e991be18"
+      "sha256": "da28ba2f23dc456b812b71d98b74877b5b306f26da7f4a9361cdb3d79aa9d0b6"
     },
     {
       "name": "data/economies/LIE.json",
       "bytes": 12704,
-      "sha256": "c79a0eba3181619f9f9e19cea1e1c3ea627db0771c51f47b4e92ddc4aed826e5"
+      "sha256": "20d97e351b780d66fbc15e34ae4e0b25d9fd252a1ebc8bd1adb0c65bec34a13e"
     },
     {
       "name": "data/economies/LTU.json",
       "bytes": 41104,
-      "sha256": "c394cbdaaf86e0963f27392f7d9c6e4026d0870cbb7b3f3451bd5baab3e86cf9"
+      "sha256": "34f8201f2d23580e00c9e9e763ee1976f5f8355076094256047ebee5324d124e"
     },
     {
       "name": "data/economies/LUX.json",
       "bytes": 45194,
-      "sha256": "ef682d15fdc768726360917e21a8fe1236a5b4c9424a8dec861325b469680e00"
+      "sha256": "c3c1e37020c5b129f8d855b56c0d5d5e216e5ba162a7a0ba5faba6cb6a0357f9"
     },
     {
       "name": "data/economies/LVA.json",
       "bytes": 47325,
-      "sha256": "d6012e47068a158a704099e56474f942e98ee44d2787348583422e510c5fe717"
+      "sha256": "8312058a6fd113831280787220c3c806cecd9ee2015d14fcc57e9450035ef350"
     },
     {
       "name": "data/economies/MEX.json",
-      "bytes": 33138,
-      "sha256": "01d91cd1efad86eec7a4d5c9752f4e8f3cfa67e1520b20cabaf5f1f2836ea90e"
+      "bytes": 33486,
+      "sha256": "29bf5cfe292c3a31aa8c5a71e08e0f98e2ae394011335d272f91eba8f18a1fd3"
     },
     {
       "name": "data/economies/MLT.json",
       "bytes": 40767,
-      "sha256": "57e9cf77108ad7895f7a7391d1e14800f700192ba4266170083bd89dd8738783"
+      "sha256": "860a992405c4dc5abfef37a5d37dd8a13c8059279ce1df2691cd3aa33aef2990"
     },
     {
       "name": "data/economies/MYS.json",
       "bytes": 13446,
-      "sha256": "ad96c7aa4f75e4d6b2d77e2784571c2a5e0a98b061abc689f94a1b7aee2936b4"
+      "sha256": "a75070a186c56a7bb2746bca254af5de723f9556617193d23de2b47c1bf4e5ba"
     },
     {
       "name": "data/economies/NGA.json",
-      "bytes": 13998,
-      "sha256": "1f636c8cb9417f2dc09c2e4a9ff218f5db7d12dc77109f58be3e6b6e62bda80f"
+      "bytes": 14036,
+      "sha256": "0384c62ea0a0502e384b5edd91821d659860b05fc623373c2a55277939dc78f6"
     },
     {
       "name": "data/economies/NLD.json",
       "bytes": 54548,
-      "sha256": "2140cef8f5c093746fea6c648b348af297ce9dc48c203b9c4050a33b264443b5"
+      "sha256": "50a87518061af650848511b3598b31d0fbd3d66d34bb1adcbc4a6713ee6bcd5a"
     },
     {
       "name": "data/economies/NOR.json",
       "bytes": 52852,
-      "sha256": "f81d7caf4e6270a56fe553f091651d41991c6c16fa712f1eaef8bcb30af1b31f"
+      "sha256": "085790d3a96a5df5a6bc1b8e4e51ece612b685a45aff2012140ca00d596f3d15"
     },
     {
       "name": "data/economies/NZL.json",
       "bytes": 18328,
-      "sha256": "cd3fb399ee13b8ef55a288a8b48df430be4b5c8ba6268f8b4617b62bfd6d8092"
+      "sha256": "acf48e81fc92bf7d1db9eb4954cd5b80df275e3a7d34de2595c282568cdc8716"
     },
     {
       "name": "data/economies/PER.json",
-      "bytes": 17166,
-      "sha256": "ed96e5bad636b84a9818beee8c404e6f859a732cb86c4c40cfb9ceabd8ad139c"
+      "bytes": 17394,
+      "sha256": "b87704f2b4f07b47126e2dc043e2b88fc2379b6a036a38c93d0fea65c58fd6a3"
     },
     {
       "name": "data/economies/POL.json",
       "bytes": 59771,
-      "sha256": "6eec404443f4e2e87e55afe90bdbf5403271417f59fc5c90f90bf408cc911039"
+      "sha256": "f7f31a90af90bf29d1080f8749e2b4887c81bcd91f8daeaed9dbe66d59b6c919"
     },
     {
       "name": "data/economies/PRT.json",
       "bytes": 52234,
-      "sha256": "1e0026c753d2bdc4cd22ffe07ae2b5239f267348576d29caa40430a5bf3b32a6"
+      "sha256": "fbd6105aa946ddc93387d447cdb75f29cb44088019e5758b206652a174564ce8"
     },
     {
       "name": "data/economies/QAT.json",
       "bytes": 8546,
-      "sha256": "3727e7a2ae58ba5795a37369b832ea79612393c0120cf64fd372ccb29f3fa303"
+      "sha256": "e1f96284b217bc79c3eafc822cfdfa12322cfe91d05c1a96443f4a803bd5bda3"
     },
     {
       "name": "data/economies/ROU.json",
       "bytes": 47796,
-      "sha256": "cfa89c4896286155a61ea95cf57a46c1e3053cd785c1a94f073f79c4b7413895"
+      "sha256": "741068187b63f28f66c3e239ae53bc2e36075e4bbf1dd49f2ff75a8799d75af8"
     },
     {
       "name": "data/economies/RUS.json",
-      "bytes": 20240,
-      "sha256": "bf506694ee62db8e0dc7bd5a2e3f8bdf4655a7546db6225e68c0f5b31b2a0b08"
+      "bytes": 20238,
+      "sha256": "9f9b74bacdb550370bc48ea71a64ded6ccdc7238b1ed872c0b1865822104c7ee"
     },
     {
       "name": "data/economies/SAU.json",
       "bytes": 15961,
-      "sha256": "353173fd9838979e8d2a1c01019608397b6cb6f7d33de6da78bcc1e1800b1edb"
+      "sha256": "a86781ea69d9c30299fcdf204738546be57721f07057497cd6748af8c65b4aef"
     },
     {
       "name": "data/economies/SGP.json",
       "bytes": 21046,
-      "sha256": "7e67e30cd720d4a4101621fe10a541f9d3421d577076a333b0de0eac00d3c9ac"
+      "sha256": "be30fa410b7ba3784be03b8aff0a177dbd0bed477280ace0c4c6392e65d64b15"
     },
     {
       "name": "data/economies/SVK.json",
       "bytes": 42653,
-      "sha256": "780a60c1b05924b090764da117d83dc7dee7aba4aeb2d35521408343e866c5fd"
+      "sha256": "32ef623e1feeea4f9cfd5059b6708828b93929f706835742e8b3e35f0787b2c7"
     },
     {
       "name": "data/economies/SVN.json",
       "bytes": 40813,
-      "sha256": "8e2a237feb2cb677763ae587516adef606e22b5bcae8e5a9ce4d6c815660cdbf"
+      "sha256": "baa93c9ae4e443fbbb3d8c7cf8b7298a0b33a83cfbc5ce20a791b5788f8abeb4"
     },
     {
       "name": "data/economies/SWE.json",
       "bytes": 59393,
-      "sha256": "c05aa943c6148f00ce5ff1632837b76a52e91dc81cfbdab9a115838c7188c5ae"
+      "sha256": "b7397c74ccdaef0b7b25a5daed8771535b0dca24ae5339cafcbf64a622614c08"
     },
     {
       "name": "data/economies/THA.json",
       "bytes": 12321,
-      "sha256": "e7f30ee2a60cf122a5d8954dbf91cc6a821624d7fc0d52ae13f611d475c57624"
+      "sha256": "dda9b333a9090a0bdbb66a4bc42d375dd148a4d940c1255aeaa658fbfb73c418"
     },
     {
       "name": "data/economies/TUR.json",
       "bytes": 22549,
-      "sha256": "29ed2c3210bc89993a3a06e22213fa95274e9092d0cc9e3be7ebcb2c2f11fc76"
+      "sha256": "ceed595e453dffcb5d409170d966b5c406118d7332090d87e0b990ceffe5bf32"
     },
     {
       "name": "data/economies/TWN.json",
       "bytes": 17146,
-      "sha256": "bb309f4c96b46b3aa837060e6478b4c2bb701bf03b912b72240870fe008ca280"
+      "sha256": "14cf785c4f80ec75447d5e5d0518f2d8bfb0857af27b36d5d2d98db0c05a2f54"
     },
     {
       "name": "data/economies/UKR.json",
       "bytes": 11243,
-      "sha256": "c11e4284b6eb92b39b23a0d76642810d4220d6760e0ad303b0e8681b8fa803dc"
+      "sha256": "099e75edabf98d704862a78c70f7502605ca594dd3713b9050fd8fc11705d5b4"
     },
     {
       "name": "data/economies/USA.json",
       "bytes": 38903,
-      "sha256": "6460a3885e828ded923dfd85d02b94321338a001f1e08a5b028aa2ad5604fc82"
+      "sha256": "5ded0e4b6a48bbaa4e9d49d68f1a969ed337629fc09ee98128daa1fcf99e55f6"
     },
     {
       "name": "data/economies/VNM.json",
       "bytes": 8617,
-      "sha256": "9377bb6a8397096fc5fbcf8ede5f8339cb0b5c491d210b30b5262a15b95a509c"
+      "sha256": "e77a1c972b9b366974d1b18c165f7f41a64654ecd0263a08c1f73751efdabb7f"
     },
     {
       "name": "data/economies/ZAF.json",
       "bytes": 14469,
-      "sha256": "551fcefee2df608a93afc3945b32ee5f4e1581551066a2992e7a65e7541e4ea4"
+      "sha256": "4f58e20d648474b378a0f6263894927247c7f78450ed4aee51cdcf9f20abc6f2"
     },
     {
       "name": "data/vintages/AGRI_EXPORTERS.json",
       "bytes": 6264,
-      "sha256": "a0617492c45f1bcdecc627499124cdfb6eaa265552a463f8de34e0b56c7b2298"
+      "sha256": "fd1e98e9a0df04669534da75f1828fa26fd0765b868fc994efe4aea7dde67b62"
     },
     {
       "name": "data/vintages/ARE.json",
-      "bytes": 52076,
-      "sha256": "beb4837071fc47384d5ab8ed5467de22b20308720a38067a43ece2a6c8eedcfb"
+      "bytes": 52340,
+      "sha256": "b2c049f7082c6ba7708700c42ba08fb8d8f5bfb91c35da04e4000e325c04cfc1"
     },
     {
       "name": "data/vintages/ARG.json",
       "bytes": 40814,
-      "sha256": "eea27ac55ce2681b1ed09b6d8e51ebbdae3937deb5504afe66bbe31d28ae6de1"
+      "sha256": "f844e44ac6c33aa21f3d6742b0b8bc2d6204a84467659e7f161fc31032ba9f9c"
     },
     {
       "name": "data/vintages/AUS.json",
       "bytes": 75664,
-      "sha256": "da50df82ebaff25247674d0eb3752328ace774ad3fba3b1bdd4cfd5feaef5554"
+      "sha256": "4b8fe563185654dc941ed18b38868b189acda09facb1604b0fbe560829c05b64"
     },
     {
       "name": "data/vintages/AUT.json",
       "bytes": 106098,
-      "sha256": "83f9456ddbee6b95dbf79be07b53d6e56a8ee6aa26d03d4579d77796662e2c3e"
+      "sha256": "60f341cb2c33d996c4c02aad5b75267d51a3d407c5725a2033e376ae97050a83"
     },
     {
       "name": "data/vintages/BEL.json",
       "bytes": 93218,
-      "sha256": "f2010ee2552126f93be3fce7f657f71ae09223b54bb9666ac44a604c182c66d8"
+      "sha256": "eb64234ae0747e84571fb8913a5851484fc1282f273df849014da17be0d97e51"
     },
     {
       "name": "data/vintages/BGR.json",
       "bytes": 94671,
-      "sha256": "a63c3d547d8be71bb6532985cc177bfe78c4a38817631b420892a76e81d2b284"
+      "sha256": "377520c23a1545e066a622a71e57db9564e4ff00e259deb884ac5afed995d6e0"
     },
     {
       "name": "data/vintages/BRA.json",
       "bytes": 86071,
-      "sha256": "a712d9ae265c7b77d65a3f3fa2f9e27d08666a22fe5bb7d19215b3ae1790ba50"
+      "sha256": "e92d81237a569e2ea17c10f834134131e6368756a0c142feb8d2b99a63b2f6c6"
     },
     {
       "name": "data/vintages/CAN.json",
       "bytes": 92076,
-      "sha256": "1d6a359368e6b56defbbeb2389296d8e9a98a1b92092825bb35ddaf74d8e3aa9"
+      "sha256": "253b5b3246172140c25f345e8478f35aaa745fe5acf6440b2a09f02d743883b7"
     },
     {
       "name": "data/vintages/CHE.json",
       "bytes": 127488,
-      "sha256": "389929dcb501266561369f0e5a8203f226dc9d4562a08ebb61b0751fb4f6a910"
+      "sha256": "0bacdba78b6ac694b4a14fc438624b96e399d09b5dd91915135ffeb705623ae6"
     },
     {
       "name": "data/vintages/CHL.json",
       "bytes": 83128,
-      "sha256": "1b6fc72623efc20bd3567a18317606d84c5382f8070a29d16c5fb80c667ca48b"
+      "sha256": "6d7e3e22ca5ae8a557ee1477278c15ec9d994e2cc7b55120426398270d66101b"
     },
     {
       "name": "data/vintages/CHN.json",
       "bytes": 62024,
-      "sha256": "4c48f2d3768a0d23029da7123fbdeb28fa4b6975584d6410e8b62dfe32a33f2b"
+      "sha256": "e904820fe6328ef5e771ae3a145f072f109ae2966aa111013512bf72cb916a50"
     },
     {
       "name": "data/vintages/COD.json",
-      "bytes": 43652,
-      "sha256": "8cc38baa0f7c448a04dab1e7b82c3605348ae4184cb5953f13fc398e4e6a8360"
+      "bytes": 43906,
+      "sha256": "625fe234b7ab71379f5b22b0bdc75029ee0bc0b312238783c7487e247903fbbf"
     },
     {
       "name": "data/vintages/COL.json",
       "bytes": 70216,
-      "sha256": "7bd7722e2e469fd34504bfa15f3700f1700655949c427aeb60ea81bc7032d8d2"
+      "sha256": "41539db827ab890324f743b43aef8ce11e8f4afbde0f47ce62ee6199b20f4846"
     },
     {
       "name": "data/vintages/CRI.json",
       "bytes": 29188,
-      "sha256": "a8d71818780402ba368814a4ad13eb02fae2ad1c044983f9c59b661ae606fd6e"
+      "sha256": "759e75ff1ae8f9a8c7610027e02d2ba5abc156c75c3f450d8b415a41aa8e472f"
     },
     {
       "name": "data/vintages/CYP.json",
       "bytes": 80653,
-      "sha256": "4ae96e126d842d911112ab2d4b9a6b75a48671824c5b42e20518b1e543e40528"
+      "sha256": "c7435cc5db68bcc6ea212659779a9b89229fcda6edfdb80a52f80e10da52e9fe"
     },
     {
       "name": "data/vintages/CZE.json",
       "bytes": 159502,
-      "sha256": "ea30f5e692dc0df823505cb64545f84d0247968643a457d0a7f52a6861847054"
+      "sha256": "fbda4540d96d9116ea60e3ca4a2a17f069ae5478c401dc98573f42834632757f"
     },
     {
       "name": "data/vintages/DEU.json",
       "bytes": 91716,
-      "sha256": "178eeb6ce094c78fd253924dfa04a4cfa0ba4028955f7c4ad0d39db1ec5b22d3"
+      "sha256": "0abf59e6dc41a6c5a9ab5c3968e90ef7c29d81986780ff6d2a00fa7084f6b668"
     },
     {
       "name": "data/vintages/DNK.json",
       "bytes": 165420,
-      "sha256": "43d994be203f83925a06c57dee0ea01d743acc8dd672276055ac33f3660e3e72"
+      "sha256": "25808f30ccfb09e6f3f52ba0d061f5dffb9908a5abc3253a7e35f6e7247c556c"
     },
     {
       "name": "data/vintages/EA.json",
       "bytes": 157407,
-      "sha256": "dd71d560d5555ff1ef34d8669c91b83a1f5f1dbf7d557154a13b9957f79585ae"
+      "sha256": "6ed003714f2d6925e6318938c529c7889bab8319d966b63fcd9bc48b4d14fed5"
     },
     {
       "name": "data/vintages/EEA.json",
       "bytes": 31746,
-      "sha256": "6530177e4e6870056733e2d94e34ddca385bf103f43c997c436b6c504ac340c3"
+      "sha256": "f9d8aaa2eae469d5cf811f7595fbeb3f1f741745f6cb9037a79fa3e96b009010"
     },
     {
       "name": "data/vintages/EFTA.json",
       "bytes": 31102,
-      "sha256": "93ac9e03f9a729c46eeeec48f247560a6b2af0f7f0dee6975ca87c8c3ab2a298"
+      "sha256": "fe4eb958ce4da89c3ac0ff616e79c6fe38858e822c5a8a04991c83aa7fbdaa5b"
     },
     {
       "name": "data/vintages/EGY.json",
-      "bytes": 21797,
-      "sha256": "6ed22de614dfa3080238803f2811747c6c21a6d15f51ff27b00fdf523ed4ce26"
+      "bytes": 22057,
+      "sha256": "d50122f3c447ffadfd12aab051836eb92d4297b9a571a18d0030b4dc7e6a5ae4"
     },
     {
       "name": "data/vintages/ESP.json",
       "bytes": 100724,
-      "sha256": "f8294f41ab8b08c8bc88bf9459f7df4ac6936be230b72d9c63d5363260110c45"
+      "sha256": "71d70084bf1a1e67c7a31c54d4885301e608de15445ef1bb457f81b65fc752b3"
     },
     {
       "name": "data/vintages/EST.json",
       "bytes": 115373,
-      "sha256": "2032efa271fdc354432c2a1bbec63210b2c19cd66b6656d719eb82b14103501e"
+      "sha256": "46a14c70d72383c3d2dff7cbb631f95ec3f364e76c7adfd21531ee21cfacef93"
     },
     {
       "name": "data/vintages/EU.json",
       "bytes": 68316,
-      "sha256": "5b0b52ace29a7ce24611b31fa3094cb76ef2bdedf6b632494a2a762d8cb5694b"
+      "sha256": "a058624950ece93217f6a26e281c3aeaccf5e22ef76cf897497d80fc52bccd4b"
     },
     {
       "name": "data/vintages/EUROPE_EAST_WATCHED.json",
       "bytes": 16380,
-      "sha256": "255ee4e2563f725f2bd560f58bfaf362199a038329da7be0638adcc96440ca09"
+      "sha256": "74a7c7f4aa6d7b31e6868fc037c9fa8389d334c4eba005c80ceaf4237973bbd9"
     },
     {
       "name": "data/vintages/EUROPE_NORTH_WATCHED.json",
       "bytes": 35775,
-      "sha256": "a40dedd998a1553f861dc53cc8dd1059e346a202c03986b9b625deb9bbb11b53"
+      "sha256": "2cf87c2e858ec1b0667c1176877063b4c75773261b51197fcc5d7f891c7a1a63"
     },
     {
       "name": "data/vintages/EUROPE_SOUTH_WATCHED.json",
       "bytes": 63192,
-      "sha256": "a0cbf51e5a28bfa727efb6a3520e52e36e76713b8715d87ad1dfb60eb40e3a17"
+      "sha256": "c4964d84a1cf33225bfe0d27b3e8b12daece58c81ea2b207760947cfcecfbe80"
     },
     {
       "name": "data/vintages/EUROPE_WATCHED.json",
       "bytes": 16148,
-      "sha256": "d079bf3afc89507b95a95fe5fc94df38ba8f86af099428e7dabe48c0eab03e4c"
+      "sha256": "868b13b35f73059d50990225a87212c9222641d444d7070ca99d9759f742d4c8"
     },
     {
       "name": "data/vintages/EUROPE_WEST_WATCHED.json",
       "bytes": 32422,
-      "sha256": "291481c311892ac40c75cd5bf8e6ad9d2cd40dfca8c17050d2c98b900948c2de"
+      "sha256": "02a578b3081f7fc2f0ab250cc25c3418bd1b618034cca7966e83fa9fdf7bc217"
     },
     {
       "name": "data/vintages/EU_NON_EA.json",
       "bytes": 61214,
-      "sha256": "9ed77f76bf63aa4d0517a0cbb70f969a336aa832f98940bfecde11b612133915"
+      "sha256": "13c9fd26a0a4e18641900303c4b651104e8153c91df3a655ee88495117fe3f6a"
     },
     {
       "name": "data/vintages/FIN.json",
       "bytes": 91515,
-      "sha256": "a9dc014205934da31fb93feb4912184e44079689ef362051ef2c9bc4e92ec40f"
+      "sha256": "772385001351836df3706df4f3397868f0fb73bb87840ea5ecd6042637fa50a9"
     },
     {
       "name": "data/vintages/FRA.json",
       "bytes": 106445,
-      "sha256": "767898b31bc776027c1d820551fd8622a12ab48d1082f4dd7d355b08d58071e2"
+      "sha256": "48a7c560a120014493217370d4cc59a8eac7ee9958dbd2937c93ff435f045208"
     },
     {
       "name": "data/vintages/G7_COUNTRIES.json",
       "bytes": 37114,
-      "sha256": "0db94c8a05c6620527ef95b83731d6f967a560783e09255482639fb6957aa27f"
+      "sha256": "7a0946f9e6c85bd5de69b354a79653b9d4041610118e5c411c0e6069248416d8"
     },
     {
       "name": "data/vintages/GBR.json",
       "bytes": 229773,
-      "sha256": "107c1c29c0d4b26b6b588428ed5cf24be4ad1ab1490a661caf26a7378ffeec71"
+      "sha256": "2d5881566697799be3589e6740b0794e023f91a60a6b47b47fee079bc88546f7"
     },
     {
       "name": "data/vintages/GRC.json",
       "bytes": 90198,
-      "sha256": "84e8e90162d21f395c4966cfe46ec46aa3d98e5f422cc9d7eea6a5fff93ac8e8"
+      "sha256": "269d17f64d3e79946db542af15691af827db86cd9651822ee8b729e8b1d856e7"
     },
     {
       "name": "data/vintages/HKG.json",
-      "bytes": 115390,
-      "sha256": "dfa5e58a8acff466f2f23f1b9abdef16cca7bb36e75e97fb89b6daf66db72a30"
+      "bytes": 115660,
+      "sha256": "7e66d66304dce5a131eb162562c1def848ae5b7722cfa3e901e9b8a5776b7601"
     },
     {
       "name": "data/vintages/HRV.json",
       "bytes": 89603,
-      "sha256": "e85226a8303d3733acc525121b260539421a95a76d823339d9189b020553bb5c"
+      "sha256": "682ed6467c781e2209d1d99e97cc86cd19af2e74cae1137624d425950d7a1607"
     },
     {
       "name": "data/vintages/HUN.json",
       "bytes": 166082,
-      "sha256": "de24741e326264a8e7b65de53ce2f6d1a01d63849256d2e03a34a281f2152144"
+      "sha256": "371463b0e3e97202b3cb7a8942193618fa5b04d6f65bb01288bddd537f719bb9"
     },
     {
       "name": "data/vintages/IDN.json",
       "bytes": 54331,
-      "sha256": "99cea091296e7688e3d921bf5e8d616ba55d7dab3df1d485604d9cbee29a2f90"
+      "sha256": "7044775ec4dae33eedf389dc47d8249adae0888babf154ba3936398508c62f1e"
     },
     {
       "name": "data/vintages/IND.json",
       "bytes": 67293,
-      "sha256": "da01d8076fad73aff10e1e54027471db34f183745e75113279c67e4ed4a85a39"
+      "sha256": "e6df7fe6c2736b60eda5b0d8a6199d15306bfb165e6b049b72790c80d27dca22"
     },
     {
       "name": "data/vintages/IRL.json",
       "bytes": 101329,
-      "sha256": "8150211137117529731699651a752b3b35ef0becde50b7c5daee3ea50d2d6acb"
+      "sha256": "551b522d39ad62c7bab60a754a1604d35fc69fad88f8f5e4ac3f73d895d5b626"
     },
     {
       "name": "data/vintages/IRN.json",
-      "bytes": 25250,
-      "sha256": "7ad7c1fbb6de2704f6ce965c7493427c503c17fc09a1030c5fe6b9fbaad380a9"
+      "bytes": 25527,
+      "sha256": "1e9ef993d17f459eafc9907c5e3d7c030152cbb81cb40b03ae9456540efd8323"
     },
     {
       "name": "data/vintages/ISL.json",
-      "bytes": 189173,
-      "sha256": "b70dad98ab7155ecd1f241a98d0c532baab214beec3d7c2d1ab5b71394783a4e"
+      "bytes": 189464,
+      "sha256": "0c7464b55289250d41d0b4aee81fcf231623b7bb175eb08ee6d00e5da97b7a10"
     },
     {
       "name": "data/vintages/ISR.json",
       "bytes": 98934,
-      "sha256": "24b1b3ae9d66a3a0b33810cc7afce77f12169b3a08572d461151b5250832d1d4"
+      "sha256": "1dc99bea154369ba1dc80c8eb6e940e719b7a2621c7b29dd17165706933b4135"
     },
     {
       "name": "data/vintages/ITA.json",
       "bytes": 99849,
-      "sha256": "1c7e46c4f32710fc6ea0572598e622d882c695990c208def885aa7494e7c8e1a"
+      "sha256": "b2162e50dde30e8f3f9d4e7da5545228515c80ad682a8e08fff626bc1c820411"
     },
     {
       "name": "data/vintages/JPN.json",
       "bytes": 109077,
-      "sha256": "2250e366905a2da55563d79e33f723a6d7b2c9b3219673b0382d812839c9655e"
+      "sha256": "bc40379d29484319e4a61f0e747f9c70e3cf1b9f52abc4d9ac2dfc24d34641b0"
     },
     {
       "name": "data/vintages/KOR.json",
       "bytes": 90538,
-      "sha256": "bd37a40d9f6f6d29719d9cb781756b54a37e9c342ec36fdef536814dcbc5a618"
+      "sha256": "0445653694da3ed54dac52d562bc866d3b83332cf063d9dd2f35d1ca0558c84d"
     },
     {
       "name": "data/vintages/LIE.json",
       "bytes": 26788,
-      "sha256": "2cddb1f17a8c5570ca29db603c81ee78535cab64a69745eed6c1bab8f98d6f75"
+      "sha256": "d8add25cf45f7058bde212ec41385844f20b77c2efda6b6279f1088402617039"
     },
     {
       "name": "data/vintages/LTU.json",
       "bytes": 88529,
-      "sha256": "4795f03af4bfb8236c7e62266f9299f4428944f96f64d9c8ce1f6dbab6845809"
+      "sha256": "06abc54385195035ee8b258df63cf808ef4a908491c95cd25320fc988fb52870"
     },
     {
       "name": "data/vintages/LUX.json",
       "bytes": 91274,
-      "sha256": "85c903eb453b54fa0ec5691de4a5db1916812b01c9efca32b03dd8a193a8e4b4"
+      "sha256": "e6c65096677ce84244e2f222550510b81d2e94eaa3053910d238942d4ddac8e3"
     },
     {
       "name": "data/vintages/LVA.json",
       "bytes": 88010,
-      "sha256": "04be20709438074f5ab187c9df0568e5b670f4d67829351921d7f33930cf0d45"
+      "sha256": "e554b4e6358a394a91d37b184dfc0a1f379e8a6b07988b767f090e4335c64cc6"
     },
     {
       "name": "data/vintages/MEX.json",
-      "bytes": 93527,
-      "sha256": "447e08044d2cdc95ff7e5f5661a0fd0e6aa827878843810ae181540e1ee3e615"
+      "bytes": 94053,
+      "sha256": "d085a7a377c16ef5dc1af0c4a22280a9053b192d85206ee29e0745f4b1bf3d44"
     },
     {
       "name": "data/vintages/MLT.json",
       "bytes": 71483,
-      "sha256": "ca9013d64b56e80f421da7b668939a57634d1141e51c480c08fd60f0abdcc6a8"
+      "sha256": "db3447eebdb07f2f7d80fe2f57f13e441fc8f85beeb3e19dd9b08826f12d67d9"
     },
     {
       "name": "data/vintages/MYS.json",
       "bytes": 49635,
-      "sha256": "f2315951cd18bf8d43138c9504d7757c69aa211c192683b19a46753030694e47"
+      "sha256": "5769dd22e1e4b5bbfd1d0305d034009762c4ea5ac013ceb66e36d4c1022f8766"
     },
     {
       "name": "data/vintages/NGA.json",
-      "bytes": 40313,
-      "sha256": "ddb794f0e6b923403bb13f5fde80853f0cb4cf3ad319649212f29d0b28199a4e"
+      "bytes": 40553,
+      "sha256": "e1881702aa72947af68fa7e65587110db64a2cd51dbf11dfb613a78b5577b7ba"
     },
     {
       "name": "data/vintages/NLD.json",
       "bytes": 104031,
-      "sha256": "7fada72459b4df51afc2009defc2b385768cc737197477a28203cfe8a35e51b8"
+      "sha256": "5242253e233db7cbffb0c8e9627ef3139c00f3779a47d026b28fb8e82e081deb"
     },
     {
       "name": "data/vintages/NOR.json",
       "bytes": 143050,
-      "sha256": "6fa3978f97eac03bde7193980de037c04c98309c20acfc76af58da358438a44f"
+      "sha256": "34d2ef24b5b460430731f52d073dcd9370eba73135883ea556ab25001b9a8e28"
     },
     {
       "name": "data/vintages/NZL.json",
       "bytes": 78742,
-      "sha256": "23f5f2b594a247a8dc8601949675a1b87987f4a02ec7b24b9fba78c2f96e6e96"
+      "sha256": "a0310b837502970f70e14f11d336b3c5b5e156240202f3faa29403dbf6f54a8d"
     },
     {
       "name": "data/vintages/OECD.json",
       "bytes": 2008,
-      "sha256": "b51e326c7742bd29986e6a5798001ceda1bed88104a52ea5764745fd1b61541b"
+      "sha256": "cea3eea18bfebf4b7e50324101cd2573cd506d1569379af54d98cb3b9c6b613c"
     },
     {
       "name": "data/vintages/OECD_AMERICAS.json",
       "bytes": 5684,
-      "sha256": "6e135a406300a7e1a3d9e96662df515edf8519b4a5ea21b9e68ba6464947279b"
+      "sha256": "2c5ea819a8b40612722fd6fac8bdee4334ab21d673198ebd5e2e09a295eb367f"
     },
     {
       "name": "data/vintages/OECD_ASIA_OCEANIA.json",
       "bytes": 2450,
-      "sha256": "b92bd63fbaace77e6335ecd591008e5141a310ebb942739a829842e8320f7a77"
+      "sha256": "8d94e4d1062bc30169ccce98a6572a96914a4ec3ff6c318c3ea54ac196ddec89"
     },
     {
       "name": "data/vintages/OECD_EU.json",
       "bytes": 60536,
-      "sha256": "9d55ccafab032cd936d6d53b2a24c3406e00b63a26426046938a8fba65db960d"
+      "sha256": "8e82d1643f40b6a0eb84feb11a9554ab4e7a3cc36d9c49ac0fd1fd267f382f73"
     },
     {
       "name": "data/vintages/OECD_EUROPE.json",
       "bytes": 33785,
-      "sha256": "479a75c9213e4f75c516baf92b331ad0f490c442e2948e14e8f51877e1d4d889"
+      "sha256": "fffef222ff09a48290aef6ce9bace8a2d17c1d66a436e6b7e405f8b1dc9ac5a0"
     },
     {
       "name": "data/vintages/PER.json",
-      "bytes": 78974,
-      "sha256": "a21023a34fa295cb15cdf11b9484a0355fbafd62874b209690d7e0587f6ba822"
+      "bytes": 79505,
+      "sha256": "014930ca5942a38eaa489fdeae4908cdf6c5e569283ef10944fae11846bd8cd6"
     },
     {
       "name": "data/vintages/POL.json",
       "bytes": 132588,
-      "sha256": "411836cbb4a45dfb37732ea64102e460bbbc7b1ca1bb4e686ddd1786521b276b"
+      "sha256": "08c7c64250a868be12b581cc80a07cede94233d274fbb17c0635ac1afc8589cb"
     },
     {
       "name": "data/vintages/PRT.json",
       "bytes": 97977,
-      "sha256": "e7930228ed65cd6ac43fc5ce584bb6c0b3af34f469c3a87df27fb71e0a87a00a"
+      "sha256": "0940dba6696d4bf46531d8fd34c3b8ddce1a80f37e1b1497cbc81b44b630cb19"
     },
     {
       "name": "data/vintages/QAT.json",
       "bytes": 17921,
-      "sha256": "4d06b06d8c8a082165cf1409f19ac6b4a8086b8b6a3fa3ed6171cf77b097be02"
+      "sha256": "948968c3f6a588b1c3176f5eeb83780bc8edf67ce4c77edb8919e447d3d2ca39"
     },
     {
       "name": "data/vintages/ROU.json",
       "bytes": 116623,
-      "sha256": "919f30cc3ce6cf4a88d395fdb27c77feb08e452f174194cf7792fbe2f17d63db"
+      "sha256": "7166be1919342165543cf14534da0762216fa86f6bfa929dfeacc40639f3dc81"
     },
     {
       "name": "data/vintages/RUS.json",
-      "bytes": 84706,
-      "sha256": "94660d41c5ce9387c2f096a1a6f3abe69f2a7f3bba982a3d2062435f6c246103"
+      "bytes": 84967,
+      "sha256": "235ec7b45246be21003e01f3b430297fe57afc35db0a767f27650ccfde5883aa"
     },
     {
       "name": "data/vintages/SAU.json",
       "bytes": 62798,
-      "sha256": "46203cf295a45a5f60c1155bc5233d71daa864c3c00f80e807185f55e60295db"
+      "sha256": "5cc93b705fc67bf644e376ec006a302414b0811d8b03fb4b2a749d47be5e5767"
     },
     {
       "name": "data/vintages/SGP.json",
       "bytes": 117025,
-      "sha256": "41d70e71f242c2c263531fa1a1f5beaa61c8b872540f92508139105b6e9829be"
+      "sha256": "3385fd6a3d7413df862fdf1447b9a49be3b4936156b8d42a16e4090635f399ec"
     },
     {
       "name": "data/vintages/SVK.json",
       "bytes": 86180,
-      "sha256": "e45712c2c9b7f728bda08937889819ed0be963bff9bc29210038ebdcc8350cd6"
+      "sha256": "4bab25c4d11a957445cb6299fa5fbbcdac0b94b0e7ca3790c94331589a545065"
     },
     {
       "name": "data/vintages/SVN.json",
       "bytes": 87740,
-      "sha256": "a0ad6f538bbd67d61851387f7f7ef5773b88b6b806dad7321bb71f01f4d9ca09"
+      "sha256": "4b417bea1207108d106015a2895aa2e186c1888ad5fb32bb6c78eac775b87a9c"
     },
     {
       "name": "data/vintages/SWE.json",
       "bytes": 132136,
-      "sha256": "a67d4a9457c28fffef4b4367d1462857de3c3ee2359bec07ec6a06ff3722dcfb"
+      "sha256": "7b2d72fcb67cb2afb8bf6fb4b49fd81132a08205c8b963bfe9d82ccc3de7ff21"
     },
     {
       "name": "data/vintages/THA.json",
-      "bytes": 33211,
-      "sha256": "cb1e9c67ee41bb40d074e43a6d514c89df3fa89b20978c59de9f823d08061367"
+      "bytes": 33757,
+      "sha256": "d434c6be6ab0c2537e5298de374e03759aa4eab2ff563e245e683735471c0121"
     },
     {
       "name": "data/vintages/TUR.json",
       "bytes": 68157,
-      "sha256": "a5b41f6c474e5b21a4aa4bd90fe0e98c4f2179bf0410a300674dd6d9be7368c5"
+      "sha256": "c28ac479c138505474a1dbff98e66157f576d28d7ec53a7bd9d6dc90102674bb"
     },
     {
       "name": "data/vintages/TWN.json",
       "bytes": 112870,
-      "sha256": "9412985a9c8f9c45a845147eb8ea5ce13b58a3e39cde79b30b29ab3db0d3a070"
+      "sha256": "78e0ad39ba9f5fd3027abaf8ea7211da1127e442c1b7b6a039677bb1dec0cd8a"
     },
     {
       "name": "data/vintages/UKR.json",
       "bytes": 41263,
-      "sha256": "b38d7a287a9395e6463be93145cc4f990eac0fb83615eb6f8d823d9f8f25cad4"
+      "sha256": "234257eace52ba6829ff50fb2aa940c38891e611270445206a23052c3941b868"
     },
     {
       "name": "data/vintages/USA.json",
       "bytes": 98667,
-      "sha256": "8bc0f774fdfc2002a27cfd0217642b13f1e3a156576756ac130d9f5e81b9b720"
+      "sha256": "7dd06d7f384b8b4783b38b4da10bd09bab53688fc5ed2d26fb4b529c67ca04ea"
     },
     {
       "name": "data/vintages/VNM.json",
-      "bytes": 17843,
-      "sha256": "29d88a37d4e31d8e3267862a2c7ec19884bec517ac3e632f2d127d8f3d6c5c0f"
+      "bytes": 18097,
+      "sha256": "84661605ce9742beb91f3be4cc14d8316f371452342f3406c2b2dceaef6a6811"
     },
     {
       "name": "data/vintages/ZAF.json",
       "bytes": 56742,
-      "sha256": "f2b9aafc977fbaeeba47d5ab44fd6c11f5b481e9cdaeb560d0a28db11467995b"
+      "sha256": "0b19624d1a7c284fa31cc1a2573c94ca7e84fd193d456dbb4a2fede5263401a1"
     },
     {
       "name": "favicon.svg",
@@ -945,18 +945,18 @@
     },
     {
       "name": "research/release-points.json",
-      "bytes": 1457430,
-      "sha256": "67444e0fe3b6c3cb6c70f70629fb59c4f1739efe70caf7a8f7b077766cef68ce"
+      "bytes": 1458409,
+      "sha256": "4275e7d0ae2a9ed011ee222d7adb7a5d98d835b2ec832a6ba08bdfb1d4c41544"
     },
     {
       "name": "research/snapshot-manifest.json",
       "bytes": 9923,
-      "sha256": "b577c65c8137427b304a5417ff5e90f8dec7e30d81a57ef5c9190493e5b50b3d"
+      "sha256": "0b8bc044adaa02410792386b8b4f404ca9dfeb974c1dd6beb30ecfe4b4b3ffb4"
     },
     {
       "name": "research/snapshot.js",
-      "bytes": 5580325,
-      "sha256": "6d338de5a2c542744fa4278ffa6b454ec72d98677b11e97c64493274544be1ab"
+      "bytes": 5581851,
+      "sha256": "a315164c4f02cebf60d61336a1f8c6f2739076f301b875840f0655c6ce47ef83"
     },
     {
       "name": "research/styles.css",
@@ -964,7 +964,7 @@
       "sha256": "d2d19fbd4feaedf3876c255785b382b806280f5b0cc8825686889c84c3fb151e"
     }
   ],
-  "total_bytes": 24501305,
+  "total_bytes": 24515939,
   "delivery": "static_relative_paths",
   "analytics": false,
   "pages": [
@@ -974,7 +974,7 @@
       "data": [
         "research/snapshot.js"
       ],
-      "data_bytes": 5580325
+      "data_bytes": 5581851
     }
   ]
 }
